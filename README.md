@@ -15,9 +15,9 @@ This is a basic weather application that shows users the current weather in a to
 ## Usage
 
 If you are an end-user and would like to tey out the application, please head over to the following link:
-www.heroku.com 
+<a target="blank" href="https://enigmatic-badlands-18658.herokuapp.com/">https://enigmatic-badlands-18658.herokuapp.com/</a> 
 
-If you would like to tke a look and play around with the source code please see the installation instructions below:
+If you would like to take a look and play around with the source code please see the installation instructions below:
 
 ## Installation
 To run this code:
