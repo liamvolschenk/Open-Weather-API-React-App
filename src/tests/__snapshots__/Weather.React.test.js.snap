@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot for weather component 1`] = `
+<div
+  className="app"
+  data-testid="test-1"
+>
+      
+  <main>
+    <div
+      className="search-box"
+    >
+      <input
+        className="search-bar"
+        onChange={[Function]}
+        onKeyPress={[Function]}
+        placeholder="Search..."
+        type="text"
+        value=""
+      />
+    </div>
+    
+  </main>
+</div>
+`;
